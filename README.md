@@ -1,5 +1,5 @@
 # Coca-cola-Sales-Analysis
-![logo]()
+![logo](https://github.com/rachit7217/Coca-cola-Sales-Analysis/blob/main/Dashboard%2015%20Coca%20Cola%20%20Sales.png)
 
 ### Project Summary: Coca-Cola Sales Analysis using Power BI  
 
